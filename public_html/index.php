@@ -431,14 +431,14 @@ $ogMetaDescription='Providing St Louis with automation solutions to increase pro
         </div>
         <div class="section-top">
             <div class="row">
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-6">
                     <div class="person-box">
                         <div class="image-wrapper">
                             <img src="assets/images/profile%20pic.jpg" alt="Brandon Twitty">
                         </div>
                         <h4 class="uppercase hr-mid"><a href="https://twitty.io">Brandon Twitty</a></h4>
                         <h4 class="uppercase weight300">Solutions Architect</h4>
-                        <p>Over a decade of building and delivering enterprise solutions in almost every industry. Lets have a conversation Ill have a solution for it!</p>
+                        <p>Over a decade of building and delivering enterprise solutions in almost every industry. Passionate about technology and validating the cutting edge products coming to market. Lets have a conversation Ill have a solution for it!</p>
                         <ul class="list-inline list-socials">
 
                             <li><div class="text-wrapper"><a href="https://twitty.io" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
@@ -447,24 +447,24 @@ $ogMetaDescription='Providing St Louis with automation solutions to increase pro
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-6">
                     <div class="person-box">
                         <div class="image-wrapper">
-                            <img width="90%" src="assets/images/who-is-david-kley-sm.jpg" alt="Customer Success Manager">
+                            <img width="60%" src="assets/images/who-is-david-kley-sm.jpg" alt="Customer Success Manager">
                         </div>
                         <h4 class="uppercase hr-mid"><a href="https://webdesignandcompany.com/">David Kley</a></h4>
                         <h4 class="uppercase weight300">Pre Sales Engineer | Customer Success Manager</h4>
-                        <p>I ensure dead lines are kept, customer is happy, and the entire experience with Code St Louis is as expected. I have over a decade of business ownership and knows what it takes to deliver a solution and customer experience</p>
+                        <p>Ensure dead lines are kept, customers are happy, and the entire experience with Code St Louis is as expected. I have over a decade of business ownership and knows what it takes to deliver a solution and customer a good customer experience</p>
                         <ul class="list-inline list-socials">
 
-                            <li><div class="text-wrapper"><a href="https://twitter.com/createitpl" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
+                            <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
 
                             <li><div class="text-wrapper"><a href="https://www.linkedin.com/in/davidkley/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin fa-fw"></i></a></div></li>
                         </ul>
                     </div>
                 </div>
                 <div class="clearfix visible-sm"></div>
-                <div class="col-sm-6 col-md-4">
+                <!--<div class="col-sm-6 col-md-4">
                     <div class="person-box">
                         <div class="image-wrapper">
                             <img src="assets/images/content/nick.jpg" alt="Nick Rivera - Designer">
@@ -478,7 +478,7 @@ $ogMetaDescription='Providing St Louis with automation solutions to increase pro
                             <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Google +"><i class="fa fa-google-plus fa-fw"></i></a></div></li>
                             <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin fa-fw"></i></a></div></li>
                         </ul>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
