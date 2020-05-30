@@ -68,9 +68,32 @@
     }
 }
 
-
-
-
+.pre{
+    margin-bottom: 1em;
+    padding: 12px 8px;
+    width: auto;
+    max-height: 600px;
+    overflow: auto;
+    font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
+    font-size: 13px;
+    background-color: var(--black-050);
+    border-radius: 3px;
+}
+code{
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+    font-size: 0.8125rem;
+}
+pre{
+    font-family: Andale Mono, Lucida Console, Monaco, fixed, monospace;
+    color: whitesmoke; background-color: #3a3a3a;
+    font-size: 16px; border: 1px dashed #999999;
+    line-height: 1.5em; padding: 5px;
+    overflow: auto; width: 100%
+}
+code {
+    color:whitesmoke;
+    word-wrap:normal;
+}
 /*======Iphone XR ==========*/
 @media only screen
 and (device-width : 414px)
