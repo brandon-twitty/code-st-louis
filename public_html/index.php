@@ -217,8 +217,8 @@ $ogMetaDescription='Providing St Louis with automation solutions to increase pro
         -->
             <video id="video1" muted loop autoplay="autoplay" preload="auto">
 
-                <source src='http://corpress.html.themeforest.createit.pl/assets/videos/teamvideo.mp4' type='video/mp4' />
-                <source src='http://corpress.html.themeforest.createit.pl/assets/videos/teamvideo.webm' type='video/webm' />
+                <source src='https://corpress.html.themeforest.createit.pl/assets/videos/teamvideo.mp4' type='video/mp4' />
+                <source src='https://corpress.html.themeforest.createit.pl/assets/videos/teamvideo.webm' type='video/webm' />
             </video>
         </div>
 
