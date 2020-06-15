@@ -36,8 +36,8 @@ $metaDescription='Code St Louis Solutions Architects that come and implement cod
         -->
             <video id="video1" muted loop autoplay="autoplay" preload="auto">
 
-                <source src='http://corpress.html.themeforest.createit.pl/assets/videos/teamvideo.mp4' type='video/mp4' />
-                <source src='http://corpress.html.themeforest.createit.pl/assets/videos/teamvideo.webm' type='video/webm' />
+                <source src='https://corpress.html.themeforest.createit.pl/assets/videos/teamvideo.mp4' type='video/mp4' />
+                <source src='https://corpress.html.themeforest.createit.pl/assets/videos/teamvideo.webm' type='video/webm' />
             </video>
         </div>
 
@@ -303,7 +303,7 @@ $metaDescription='Code St Louis Solutions Architects that come and implement cod
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    Copyright 2014 © createIT. All rights reserved - <a href="http://createit.pl" target="_blank">createit.pl</a>
+                    Copyright 2014 © createIT. All rights reserved - <a href="https://createit.pl" target="_blank">createit.pl</a>
                 </div>
                 <div class="col-sm-6 text-right">
                     <ul class="list-inline">
@@ -340,7 +340,7 @@ $metaDescription='Code St Louis Solutions Architects that come and implement cod
 
 
 <!-- Google Maps -->
-<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="https://maps.google.com/maps/api/js?sensor=false"></script>
 
 
 <!-- Flexslider -->

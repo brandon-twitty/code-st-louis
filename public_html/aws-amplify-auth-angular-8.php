@@ -309,7 +309,7 @@ $ogMetaDescription='A post that explains how to add authentication with Angular 
             <p>
                 Now press ng serve and watch the magic not happen. The build will not work and give random errors that do not make sense. On the Github comments they are saying add all these compiler options, switch to e2015 blah
                 blah exhausting. My initial thought by the error probably needed to upgrade my Typescript because it was saying it cannot find Omit in a million places and I think Omit came with 3.5.x.
-                Sweet just upgrade the Typescrypt we are good. NO. You do have to upgrade the Typescrpit to 3.5.3, maybe if you are already on 3.5.3 you will not have any problems. If you are on angular 9 I dont think any of this works which is when
+                Sweet just upgrade the Typescript we are good. NO. You do have to upgrade the Typescript to 3.5.3, maybe if you are already on 3.5.3 you will not have any problems. If you are on angular 9 I dont think any of this works which is when
                 I originally upgraded Typescript but as mentioned had to revert because Angular 9 broke almost everything even the Smart tables. <br><br>
 
                 After 2 days of messing with compilers, options, turning IVY on, off adding libraries people say fix this issue blah blah even starting over like maybe I missed something. So here is the secret sauce, to utilize Amplify Auth
@@ -331,7 +331,7 @@ $ogMetaDescription='A post that explains how to add authentication with Angular 
       npm install @angular-devkit/build-angular@0.803.25
                </code>
                  </pre>
-            <p> Then uninstall typscript with</p>
+            <p> Then uninstall typescript with</p>
             <pre>
                <code>
       npm uninstall typscript
