@@ -1,9 +1,9 @@
 <?php
 $Page='Home';
 $Title='Code St Louis';
-$metaDescription='Code St Louis is taking a different approach to scale efficient development teams to support the rapid technology growth in St Louis. ';
+$metaDescription='Code St Louis is a premier software development company in St Louis Missouri. We specialize in Cloud Native Applications, Microservices, Proof of concepts, Enterprise Projects and Start-Ups. If you can dream it we can build it!';
 $metaImage='/assets/images/meta-codestl-io.PNG';
-$ogMetaDescription='Providing St Louis with automation solutions to increase productivity in the work force'
+$ogMetaDescription='Code St Louis is a premier software development company in St Louis Missouri. We specialize in Cloud Native Applications, Microservices, Proof of concepts, Enterprise Projects and Start-Ups. If you can dream it we can build it!'
 ?>
 <!DOCTYPE html>
 <!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
@@ -22,6 +22,7 @@ $ogMetaDescription='Providing St Louis with automation solutions to increase pro
 <div class="container"></div>
 
 
+<div id="wrapper" class="intro-effect-push">
 
 <div class="container"></div>
 <div class="header-search" style="display:none;">
@@ -43,133 +44,185 @@ $ogMetaDescription='Providing St Louis with automation solutions to increase pro
     </div>
 </div>
 <div class="container"></div>
-
-<div id="wrapper">
-
-<!-- VISIBLE COPY OF THE HEADER ONLY IN MOBILE NEEDED FOR THE SIDE MENU EFFECT -->
-
-
+    <!-- VISIBLE COPY OF THE HEADER ONLY IN MOBILE NEEDED FOR THE SIDE MENU EFFECT -->
 
 <!-- END -->
 <div class="container"></div>
-<div class="container-fluid">
+<!--<div class="container-fluid">-->
+    <header class="topImage">
+        <div class="bg-img">
+            <video muted autoplay playsinline preload="none">
 
-    <!-- START REVOLUTION SLIDER 4.5.9 fullwidth mode -->
-    <div id="rev2_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
-        <div id="rev2" class="rev_slider fullwidthabanner">
-            <ul>
-                <!-- SLIDE  -->
-                <!--<li data-transition="zoomout" data-slotamount="5" data-masterspeed="500" >-->
-                    <!-- MAIN IMAGE -->
-                    <!--<img src="assets/images/Stlouis1-small.jpg"  alt="3dbg" data-lazyload="assets/images/Stlouis1-small.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">-->
-                    <!-- LAYERS -->
+                <source src='https://codestl.s3.us-east-2.amazonaws.com/reactive-programming_Trim.mp4' type='video/mp4' />
+                <source src='https://codestl.s3.us-east-2.amazonaws.com/reactive-programming_Trim.webm' type='video/webm' />
+                <!--<source src='d24pqxgycrxqtw.cloudfront.net' type='video/mp4' />
+                <source src='dwaey6iojrswj.cloudfront.net' type='video/webm' />-->
 
-                    <!-- LAYER NR. 1 -->
-                    <!--<div class="tp-caption customin customout h2 uppercase white weight300 hr-left"
-                         data-x="121"
-                         data-y="182"
+            </video>
 
-                         data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-                         data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                         data-speed="700"
-                         data-start="400"
-                         data-easing="Back.easeInOut"
-                         data-endspeed="300"
-                         style="z-index: 7">
-                         Achieve Rapid <br>
-                        Development Velocity
+        </div>
+        <div class="title">
+           <!-- <h1 class="huge hr-mid"><span style="color: #449d44;">CODE</span> ST. LOUIS</h1><br>--><h2 style="color: #449d44;"><span style="color: #2b8be9; ">Premier Software Development</span><br> Serving the Midwest</h2><!--<br> <h2 style="color: #449d44;">And the St Louis Market</h2>-->
+        </div>
+    </header>
+    <button class="trigger" data-info="Lets Build Something!"><span>Trigger</span></button>
 
-                    </div>
+    <!--<section class="section bg6">
+        <div class="row text-center">
+            <div class="col-md-12">
+                <img src="./assets/images/codestlouislogo.png" alt="Code St Louis" width=20%>
+                <h3>code st louis</h3><br>
+                <p>Your Premier Development team in the Midwest</p>
+            </div>
+           <div class="col-md-6 text-left">
 
-                </li>-->
+            </div>
+        </div>
+    </section>-->
+    <div class="content">
+    <!-- END REVOLUTION SLIDER -->
+        <section class="media-section darkbg" data-stellar-background-ratio="0.5" data-height="550" data-type="parallax" data-image="assets/images/stlouis2-scaled.jpg" data-image-mobile="assets/images/content/portfolio/sidebarportfolio2.jpg">
+            <div class="inner">
+                <div class="container text-center">
+                    <h1>Need Software Development?<br> You've came to the right place</h1>
+                   <!-- <a href="#" class="btn-purchase btn btn-success btn-lg">Purchase Corpress</a>-->
+                </div>
+            </div>
+        </section>
 
-                <!-- SLIDE  -->
-                <li data-transition="zoomout" data-slotamount="5" data-masterspeed="700" >
-                    <!-- MAIN IMAGE -->
+        <section id="placeIwannaScroll" class="media-section stellar" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="40" data-height="100%" data-type="parallax" data-image="assets/images/content/parallax15.jpg" data-image-mobile="assets/images/content/parallax15-mobile.jpg">
+            <div class="stellar-object"
+                 data-stellar-ratio="1.2"
+                 data-stellar-vertical-offset="50"
+                 data-image="assets/images/content/flower2.png"
+                 data-width="102"
+                 data-height="114"
+                 data-top="35%"
+                 data-left="85%">
+            </div>
+            <div class="stellar-object"
+                 data-stellar-ratio="0.8"
+                 data-stellar-vertical-offset="50"
+                 data-image="assets/images/content/flower3.png"
+                 data-width="102"
+                 data-height="114"
+                 data-top="20%"
+                 data-left="73%">
+            </div>
+            <div class="stellar-object"
+                 data-stellar-ratio="1.4"
+                 data-stellar-vertical-offset="50"
+                 data-image="assets/images/content/flower1.png"
+                 data-width="102"
+                 data-height="114"
+                 data-top="95%"
+                 data-left="50%">
+            </div>
+            <div class="stellar-object"
+                 data-stellar-ratio="0.5"
+                 data-stellar-vertical-offset="50"
+                 data-image="assets/images/content/flower4.png"
+                 data-width="102"
+                 data-height="114"
+                 data-top="50%"
+                 data-left="45%">
+            </div>
+            <div class="stellar-object"
+                 data-stellar-ratio="2"
+                 data-stellar-vertical-offset="50"
+                 data-image="assets/images/content/flower5.png"
+                 data-width="102"
+                 data-height="114"
+                 data-top="95%"
+                 data-left="80%">
+            </div>
+            <div class="stellar-object"
+                 data-stellar-ratio="1.6"
+                 data-stellar-vertical-offset="50"
+                 data-image="assets/images/content/flower6.png"
+                 data-width="60"
+                 data-height="66"
+                 data-top="15%"
+                 data-left="50%">
+            </div>
+            <div class="stellar-object"
+                 data-stellar-ratio="0.8"
+                 data-stellar-vertical-offset="50"
+                 data-image="assets/images/mean.png"
+                 data-width="60"
+                 data-height="66"
+                 data-top="85%"
+                 data-left="65%">
+            </div>
+            <div class="stellar-object"
+                 data-stellar-ratio="0.7"
+                 data-stellar-vertical-offset="50"
+                 data-image="assets/images/mean.png"
+                 data-width="527"
+                 data-height="479"
+                 data-top="30%"
+                 data-left="60%">
+            </div>
 
-                    <!-- LAYERS -->
 
-                    <!-- LAYER NR. 1 -->
-                    <div class="tp-caption tp-fade fadeout fullscreenvideo rs-parallaxlevel-3"
-                         data-x="0"
-                         data-y="0"
-                         data-speed="1000"
-                         data-start="1100"
-                         data-easing="Power4.easeOut"
-                         data-elementdelay="0.01"
-                         data-endelementdelay="0.1"
-                         data-endspeed="1500"
-                         data-endeasing="Power4.easeIn"
-                         data-autoplay="true"
-                         data-autoplayonlyfirsttime="false"
-                         data-nextslideatend="true"
-                         data-volume="mute" data-forceCover="1" data-aspectratio="16:9" data-forcerewind="on">
-                        <video muted autoplay playsinline preload="none">
-
-                            <source src='https://codestl.s3.us-east-2.amazonaws.com/reactive-programming_Trim.mp4' type='video/mp4' />
-                            <source src='https://codestl.s3.us-east-2.amazonaws.com/reactive-programming_Trim.webm' type='video/webm' />
-                            <!--<source src='d24pqxgycrxqtw.cloudfront.net' type='video/mp4' />
-                            <source src='dwaey6iojrswj.cloudfront.net' type='video/webm' />-->
-
-                        </video>
-
-                    </div>
-
-                    <!-- LAYER NR. 2 -->
-                    <div class="tp-caption customin customout h1 uppercase white big"
-                         data-x="center"
-                         data-y="205"
-
-                         data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
-                         data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                         data-speed="1000"
-                         data-start="800"
-                         data-easing="Back.easeInOut"
-                         data-endspeed="300"
-                         style="z-index: 7">
-                        <div class="container text-center">
-                        <h1 class="huge hr-mid">code <span class="motive">St. Louis</span></h1>
+            <div class="inner">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <h2 class="uppercase hr-left">Why Are We Different</h2>
+                            <h2 class="uppercase weight300">St Louis is a great city to build software</h2>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam. Quisque semper justo at risus. Donec venenatis, turpis vel hendrerit interdum, dui ligula ultricies purus, sed posuere libero dui id orci.
+                            </p>
+                            <a href="#offer" class="btn btn-lg btn-border btn-scroll">What Can We offer?</a>
                         </div>
                     </div>
+                </div>
+            </div>
+        </section>
 
-                    <!-- LAYER NR. 3 -->
-                    <div class="tp-caption sfb h2 uppercase white weight300"
-                         data-x="center"
-                         data-y="center"
+        <div class="container"></div>
 
-                         data-speed="500"
-                         data-start="1500"
-                         data-easing="Power4.easeOut"
-                         data-endspeed="300"
-                         data-endeasing="Power1.easeIn"
-                         data-captionhidden="off"
-                         style="z-index: 7">
-                        Delivering enterprise solutions
+        <section id="offer" class="media-section darkbg stellar" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="40" data-height="100%" data-type="parallax" data-image="assets/images/content/parallax16.jpg" data-image-mobile="assets/images/content/parallax16-mobile.jpg">
+            <div class="inner">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <img src="assets/images/content/offer1.jpg" alt="India">
+                                </div>
+                                <div class="col-xs-6">
+                                    <img src="assets/images/content/offer2.jpg" alt="Egipt">
+                                </div>
+                                <div class="clearfix"></div>
+                                <hr class="small transparent">
+                                <div class="col-xs-6">
+                                    <img src="assets/images/content/offer3.jpg" alt="Swimming">
+                                </div>
+                                <div class="col-xs-6">
+                                    <img src="assets/images/content/offer4.jpg" alt="India">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 text-right">
+                            <h2 class="uppercase hr-right">Our Offer</h2>
+                            <h2 class="uppercase weight300">Exotic countries<br> are our specialty</h2>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus.
+                            </p>
+                            <h2 class="uppercase weight300">Check our prices<br> book your trip now</h2>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus.
+                            </p>
+                            <a href="#pricing" class="btn btn-lg btn-border btn-scroll">Show Pricing</a>
+                        </div>
                     </div>
-                    <!-- LAYER NR. 4 -->
-                    <div class="tp-caption customin tp-resizeme rs-parallaxlevel-0 start hasclicklistener"
-                         data-x="center"
-                         data-y="490"
+                </div>
+            </div>
+        </section>
 
-                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                         data-speed="500"
-                         data-start="1900"
-                         data-easing="Power3.easeInOut"
-                         data-splitin="none"
-                         data-splitout="none"
-                         data-elementdelay="0.1"
-                         data-endelementdelay="0.1"
-                         data-linktoslide="next">
-                        <!--<a href="#" class="btn btn-border btn-lg">View Our Work</a>-->
-                        <a href="mailto:brandon.twitty@codestlouis.com" class="btn btn-primary btn-lg">Learn How</a>
-                    </div>
-                </li>
-            </ul>
-            <div class="tp-bannertimer"></div>	</div>
-    </div>
-</div>
-
-    <!-- END REVOLUTION SLIDER -->
+        <div class="container"></div>
     <section class="section bg6">
         <div class="container">
             <h2 class="hr-left">Dont get behind on technology</h2>
@@ -482,7 +535,7 @@ $ogMetaDescription='Providing St Louis with automation solutions to increase pro
                 </div>
             </div>
         </div>
-    </div>
+
     </section>
     <section class="section bg1">
         <div class="container">
@@ -538,6 +591,7 @@ $ogMetaDescription='Providing St Louis with automation solutions to increase pro
     </div>
 
 </div>
+    </div>
 </div>
 
 
@@ -571,8 +625,13 @@ $ogMetaDescription='Providing St Louis with automation solutions to increase pro
 <!-- Contact form validation -->
 <script src="assets/form/js/contact-form.js"></script>
 
+<!-- Needed for Intro animations -->
+<script src="assets/js/effects/classie.js"></script>
+<script src="assets/js/effects/push.js"></script>
+
 <!-- our main JS file -->
 <script src="assets/js/main.js"></script>
+
 
 <!-- end scripts -->
 </body>
