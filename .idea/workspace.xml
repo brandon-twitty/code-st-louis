@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1f4f6d6-660d-4d6d-b31e-ef6e2000128b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public_html/assets/images/codestlouislogo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/bitstampstream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/pugFiles/ticker.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/assets/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public_html/assets/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/assets/include/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public_html/assets/include/socials.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/assets/include/socials.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public_html/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public_html/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ticker-component" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,25 +43,34 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\btwit\my-repo\code-st-louis\public_html\assets\images" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Node.js.server.js (1)">
+    <configuration name="bitstampstream.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/public_html/assets/js/bitstampstream.js" working-dir="$PROJECT_DIR$/public_html/assets/js">
+      <method v="2" />
     </configuration>
+    <configuration name="server.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/public_html/server.js" working-dir="$PROJECT_DIR$/public_html">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../ticker-component/websocket-stocks/server.js" working-dir="$PROJECT_DIR$/../ticker-component/websocket-stocks">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js (1)" />
+        <item itemvalue="Node.js.bitstampstream.js" />
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -82,12 +90,24 @@
       <workItem from="1589302105383" duration="17529000" />
       <workItem from="1590843514307" duration="13632000" />
       <workItem from="1619279381706" duration="197000" />
-      <workItem from="1619281126103" duration="14547000" />
+      <workItem from="1619281126103" duration="19820000" />
+      <workItem from="1619362451498" duration="22971000" />
+      <workItem from="1623935076501" duration="10499000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../stencil-boilerplate/my-component/src/components/my-component/my-component.e2e.js" />
+        <option value="$PROJECT_DIR$/../stencil-boilerplate/my-component/src/components/my-component/my-component.js" />
+        <option value="$PROJECT_DIR$/../stencil-boilerplate/my-component/src/components/my-component/my-component.spec.js" />
+        <option value="$PROJECT_DIR$/../stencil-boilerplate/my-component/src/index.js" />
+        <option value="$PROJECT_DIR$/../stencil-boilerplate/my-component/src/utils/utils.js" />
+        <option value="$PROJECT_DIR$/../stencil-boilerplate/my-component/src/utils/utils.spec.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -99,6 +119,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="masterDetails">
     <states>

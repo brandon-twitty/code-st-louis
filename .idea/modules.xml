@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/container.iml" filepath="$PROJECT_DIR$/.idea/container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stencil-boilerplate/stencil-boilerplate.iml" filepath="$PROJECT_DIR$/../stencil-boilerplate/stencil-boilerplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ticker-component/ticker-component.iml" filepath="$PROJECT_DIR$/../ticker-component/ticker-component.iml" />
     </modules>
   </component>
 </project>
