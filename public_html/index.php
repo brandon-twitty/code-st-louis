@@ -158,7 +158,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                              data-endelementdelay="0.1"
                              data-linktoslide="next">
                             <!--<a href="#" class="btn btn-border btn-lg">View Our Work</a>-->
-                            <a href="mailto:brandon.twitty@codestlouis.com" class="btn btn-primary btn-lg">Learn How</a>
+                            <a href="https://form.typeform.com/to/xjljHFMH?typeform-medium=embed-snippet" class="btn btn-primary btn-lg">Learn How</a>
                         </div>
                     </li>
                 </ul>
@@ -297,7 +297,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h4 class="uppercase hr-mid">
-                        Streaming Market Data:    Live quotes
+                        Streaming Market Data:    Live quotes (coming feature)
                     </h4>
                 </div>
             </div>
