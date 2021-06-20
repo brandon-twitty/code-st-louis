@@ -434,25 +434,17 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                                 <p>Utilizing Crypto wallets and currency such ass XRP (RIPPLE), we are able to process any currency at any amount in 3-5 seconds USD/YEN, BTC/USD, XRP/GOLD</p>
                             </div>
                         </li>
-                        <li class="media feature-left square-icon-hover animated" data-fx="fadeInRight">
+                        <li class="media feature-left-top square-icon-hover animated" data-fx="fadeInUp">
+
                             <div class="pull-left text-center">
                                 <div class="square-icon-box square-icon-small">
-                                    <i class="fa fa-app-store"></i>
+                                    <i class="fa fa-heart-o"></i>
                                 </div>
                             </div>
-                            <div class="pull-left text-center">
-                                <div class="square-icon-box square-icon-small">
-                                    <i class="fa fa-google-play"></i>
-                                </div>
-                            </div>
-                            <div class="pull-left text-center">
-                                <div class="square-icon-box square-icon-small">
-                                    <i class="fa fa-app-store"></i>
-                                </div>
-                            </div>
+
                             <div class="media-body">
-                                <h4 class="media-heading uppercase">One Code base</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed.</p>
+                                <h4 class="media-heading uppercase">Security</h4>
+                                <p>Navigating the financial industry is vast and wide. Code St Louis has taken the actions to mitigate and understand risk of the Global Financial Industry</p>
                             </div>
                         </li>
                         <li class="media feature-left-top square-icon-hover animated" data-fx="fadeInUp">
