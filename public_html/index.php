@@ -185,7 +185,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                             <div class="table-cell text-center animated" data-fx="bounceIn" data-time="50">
                                 <a href="#"><img class="img-circle img-responsive" src="assets/images/value-stream-map-icon-inbox.jpg" alt="Research"></a>
                                 <div class="shadow"></div>
-                                <span class="gloria motive">ASKS</span>
+                                <span class="gloria motive">Data</span>
                             </div>
                             <div class="table-cell text-center animated" data-fx="bounceIn" data-time="150">
                                 <a href="#"><img class="img-circle img-responsive" src="assets/images/value-stream-map-icon-iteration.jpg" alt="Idea"></a>
