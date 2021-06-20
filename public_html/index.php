@@ -297,7 +297,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h4 class="uppercase hr-mid">
-                        Streaming Market Data:    Live quotes (coming feature)
+                        Streaming Market Data:    <a href="https://www.bitstamp.net/s/webapp/examples/live_trades_v2.html" target="_blank">Live quotes (coming feature)</a>
                     </h4>
                 </div>
             </div>
