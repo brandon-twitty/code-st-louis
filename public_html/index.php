@@ -397,7 +397,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                         <li class="media feature-right square-icon-hover animated" data-fx="fadeInLeft">
                             <div class="pull-right text-center">
                                 <div class="square-icon-box square-icon-small">
-                                    <i class="fa fa-check-circle-o"></i>
+                                    <i class="fa fa-cloud"></i>
                                 </div>
                             </div>
                             <div class="media-body text-right">
@@ -438,7 +438,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
 
                             <div class="pull-left text-center">
                                 <div class="square-icon-box square-icon-small">
-                                    <i class="fa fa-heart-o"></i>
+                                    <i class="fa fa-lock"></i>
                                 </div>
                             </div>
 
