@@ -46,11 +46,3 @@
 <script src="../../assets/js/modernizr.custom.js"></script>
 <!--<script src="../../assets/js/device.min.js"></script>-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56025855-4"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-56025855-4');
-</script>

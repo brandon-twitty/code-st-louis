@@ -57,17 +57,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.server.js (1)">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="bitstampstream.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/public_html/assets/js/bitstampstream.js" working-dir="$PROJECT_DIR$/public_html/assets/js">
       <method v="2" />
     </configuration>

@@ -11,7 +11,15 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
 <!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head lang="en">
     <?php include_once ('assets/include/head.php'); ?>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56025855-4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
+        gtag('config', 'UA-56025855-4');
+    </script>
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-WSW3GPX"></script>
 </head>
 <body class="header-dark navbar-transparent navbar-fixed with-topbar withAnimation">
 
