@@ -1,9 +1,10 @@
 <?php
 $Page='Home';
 $Title='Code St Louis';
-$metaDescription='Code St Louis id financial technology company founded on the need and ease of fintech. Our automation tools and good partnerships allow us to create secure, financial based apps.';
+$metaDescription='Code St Louis is a financial technology company founded on the need and ease of Fintech. Our automation tools and good partnerships allow us to create secure, financial based apps. We have outside audit services to ensure compliance';
 $metaImage='/assets/images/meta-codestl-io.PNG';
-$ogMetaDescription='A financial technology company founded an located in St Louis Missouri 63104. We build financial automation tools to industry standards. Our partnerships allow us to do many different things'
+$ogMetaKeywords='Money Management Software, Software Technology St Louis, Code St Louis, Learn to Code St Louis,St Louis Fintech, Programming Enterprise Software, Firebase Solutions, Google Cloud Platform, Proof of Concept Application, Financial Software Automation, Fintech St Louis, Asset Management, Investment and Automation, Artificial Intelligence ';
+$ogMetaDescription='A financial technology company founded an located in St Louis Missouri 63104. We build financial automation tools to industry standards. Our partnerships allow us to do many different things';
 ?>
 <!DOCTYPE html>
 <!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
@@ -473,45 +474,6 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
             </div>
         </div>
     </section>
-   <!-- <section class="section bg6">
-        <div class="container">
-            <h2 class="hr-left">Dont get behind on technology</h2>
-            <div class="stl-2-font">
-                <p>
-                    Code St Louis is passionate about staying up to date with the new Tech stacks coming out seemingly monthly. We are an experienced team of software developers that know how to deliver full Enterprise
-                    solutions. If you need a new integration, a digital transformation, upgrade existing software, build a new application its more cost effective to bring in a team like Code St Louis
-                    that simply delivers the desired solution. Hiring and spinning up a dev team is not always easy, time consuming and the recruiting fees alone are budget busting. Utilizing SAFe Agile methodology,
-                    Code St Louis ensures we are under budget, on time and and communicate clear road maps. If you have an existing development team but need a shift, from a developer, let them keep sprinting on what they know .
-
-                    <br> <br>
-                    In example, your DevOps is terrible and there is all these new tools to make deployments repeatable, reliable, tested that ensure your customers are not disrupted.
-                    The answer usually is "Lets hire a DevSecSpecOps guy, 10 years experience." An alternative solution would be to call Code St Louis, we will build a true Continuous Integration,
-                    Continuous Delivery pipeline, train your development team (because once finished not much to maintain) and be done, no more DevOps problems instead of hunting for 3 months to
-                    find a person that might build you one..
-                    Developers in a corporate environment are inefficient, that is not a knock on any developer or corporation. We have evil in this world, corporate provisions
-                    and rules have to be put in place. This inherited problem unfortunately impedes innovation and productivity. Developers are not able to simply install the new
-                    language SDK, framework or plugin - then play with it until they figure out how to apply it directly to the corporate system. Over shorter and shorter period of time (as technology moves faster)
-                    the development teams begin to fall way behind and to be blunt, just starting blurting out buzz words. Then comes the <span style="color: rgb(211, 0, 0);">"Ah lets hire consultants"</span>
-                </p>
-            </div>
-        </div>
-        <div class="row section-top">
-            <div class="col-md-3">
-                <img class="img-fluid" alt="Serverless Framework" src="assets/images/multi-cloud.png" >
-            </div>
-            <div class="col-md-3 text-center">
-                <img class="img-fluid" width="50%" alt="MongoDb, Express, Angular, Node" src="assets/images/mean.png" >
-            </div>
-            <div class="col-md-3">
-                <img class="img-fluid" alt="Serverless Framework" src="assets/images/serverless-sm.png" >
-            </div>
-            <div class="col-md-3">
-                <img class="img-fluid" alt="Ionic Framework" src="assets/images/ionic.png" >
-
-            </div>
-
-        </div>
-    </section>-->
 
     <section class="media-section darkbg html5" data-height="220" data-type="video" data-fallback-image="assets/images/content/parallax6.jpg">
         <div class="video">
@@ -535,90 +497,6 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
 
     </section>
     <!-- industry solutions -->
-  <!--  <section class="section">
-        <div class="container">
-            <div class="row">
-
-                <h2 class="text-center hr-mid">Strong Technology Partner</h2>
-                <div class="col-md-5">
-                    <span class="aside-title uppercase">Dont let <i class="fa fa-anchor"></i><br>Technology   <small data-color="d30000"><br>be your Anchor  </small></span>
-                    With ever changing automation needs, dont get anchored down by technology, impeding the productivity of your current business. Technology, Automation, new revenues streams all can increase work life balance.
-                    But, if you are not a technology company, trying to build these necessities in today's world will impede your workforce from top to bottom as business <br><br>
-
-                    Unfortunately you have to have technology, an experienced strong technology partner can lighten the load of handling the rapid adaption and change in the technology industry
-                </div>
-                <div class=" col-md-7">
-                    <div id="accordion" class="panel-group accordion">
-                        <div class="panel">
-                            <div class="panel-heading">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                                    Restaurant Industry
-                                </a>
-                            </div>
-                            <div id="collapse1" class="panel-collapse collapse in">
-                                <div class="panel-body">
-
-                                    <strong>If you make pizza and deliver them, do that.</strong> Building a delivery app or integrate the POS system with a tracking system internally is costly and usually not efficient because you are a restaurant not a software development company.
-                                    Let us use our experience and stream line business processes that make up your <strong style="color: #7dce94">Value Stream</strong>. We will take to the time to understand the operations and align it with a technological, supporting <strong style="color: #7dce94">Value Stream</strong>
-                                    <br><br>
-                                    <strong>We Deliver Solutions, Like you Deliver Pizza</strong>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="panel">
-                            <div class="panel-heading">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse2" class="collapsed">
-                                    Healthcare Industry
-                                </a>
-                            </div>
-                            <div id="collapse2" class="panel-collapse collapse">
-                                <div class="panel-body">
-
-                                    Healthcare thrives on technology, they have to have an internal dev team and software to monitor data, patients, billing eccetera. Think though, to have that team switch to what they are maintaining, building or adding to already cost money and internal knowledge
-                                    When the business needs a new platform, application or a transformation to on prem servers to the Cloud, let <span style="color: #47abed; font-weight: bold">Code St Louis</span>  take the work load off your development team and let us do the transformation part.
-                                    Once the transformation is complete we can hand it back to the dev team to train and maintain while your business was never interrupted <span style="color: #47abed; font-weight: bold">Code St Louis</span> will be up and cranking, DevOps, git Flow process, SDLC processes inplace and manage the entire with SAFe Agile methodology
-                                    inside VersionOne for complete transparency
-                                </div>
-                            </div>
-                        </div>
-                        <div class="panel">
-                            <div class="panel-heading">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3" class="collapsed">
-                                    Human Resources
-                                </a>
-                            </div>
-                            <div id="collapse3" class="panel-collapse collapse">
-                                <div class="panel-body">
-
-                                    Do Human Resources, if you are a software provider for Human Resources your development team is keeping that system running adding new features customers asked for eccetera. Now you wanna combine al the small HR companies
-                                    bought along the way, hire a team that does this day in and day out, all we do is transformations, system integrations, build applications everyday. We dont need spin up time or need to learn a new language - We walk in,
-                                    break the project down into initiatives and Epics, load into VersionOne and deliver your goals.
-
-                                    <br><br>
-                                    Let your company deliver HR Services let <span style="color: #47abed;">Code St Louis</span> deliver solutions
-                                </div>
-                            </div>
-                        </div>
-                        <div class="panel">
-                            <div class="panel-heading">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse4" class="collapsed">
-                                    Transportation Industry
-                                </a>
-                            </div>
-                            <div id="collapse4" class="panel-collapse collapse">
-                                <div class="panel-body">
-
-                                    If your company delivers packages or fleet management and the system is starting to grow old in age, do you hire new developers? You have a team of developers that know Transportation Industry,
-                                    <span style="color: #47abed;">Code St Louis</span> will transform your existing system to a new architecture, faster DevOps, train your team and let you get back to business.
-                                    Being familiar with GIS, Vector Types vs Raster Types ESRI Enterprise, you can trust we will deliver the solution you're needing under budget and on time
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>-->
 
 
     <div class="container"></div>
@@ -633,7 +511,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
             </div>
             <div class="section-top">
                 <div class="row">
-                    <div class="col-sm-6 col-md-6">
+                    <div class="col-sm-6 col-md-3">
                         <div class="person-box">
                             <div class="image-wrapper">
                                 <img src="assets/images/profile%20pic.jpg" alt="Brandon Twitty">
@@ -649,14 +527,47 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                             </ul>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6">
+
+                    <div class="col-sm-6 col-md-3">
                         <div class="person-box">
                             <div class="image-wrapper">
-                                <img width="60%" src="assets/images/who-is-david-kley-sm.jpg" alt="Customer Success Manager">
+                                <img width="100%" src="assets/images/karadrew.png" alt="Business Development">
+                            </div>
+                            <h4 class="uppercase hr-mid"><a href="https://codestlouis.com">Kara Drew</a></h4>
+                            <h4 class="uppercase weight300">Business Development | Product Owner</h4>
+                            <p>She is an Air Force Veteran and has served this nation in and out of uniform. As a citizen she has helped manage some of the largest defense contracts in the DoD. She has brought that type of professionalism and organisation to Code St Louis.</p>
+                            <ul class="list-inline list-socials">
+
+                                <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
+
+                                <li><div class="text-wrapper"><a href="https://linkedin.com/in/dr-kara-drew-8b3a2bb1" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin fa-fw"></i></a></div></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <div class="person-box">
+                            <div class="image-wrapper">
+                                <img width="100%" src="assets/images/brian-launcher.png" alt="Customer Success Manager">
+                            </div>
+                            <h4 class="uppercase hr-mid"><a href="https://codestlouis.com">Brian Launcher</a></h4>
+                            <h4 class="uppercase weight300">Advisor | Leads Board of Directors</h4>
+                            <p>Brian has a wealth of knowledge when it comes to investing rather it is properties, securities or crypto currencies. In his role, he helps advise and navigate the investment world. We aim to keep adding like minded experienced individuals</p>
+                            <ul class="list-inline list-socials">
+
+                                <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
+
+                                <li><div class="text-wrapper"><a href="https://linkedin.com/in/brian-lauchner-b390bbaa" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin fa-fw"></i></a></div></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <div class="person-box">
+                            <div class="image-wrapper">
+                                <img width="100%" src="assets/images/who-is-david-kley-sm.jpg" alt="Customer Success Manager">
                             </div>
                             <h4 class="uppercase hr-mid"><a href="https://webdesignandcompany.com/">David Kley</a></h4>
-                            <h4 class="uppercase weight300">Pre Sales Engineer | Customer Success Manager</h4>
-                            <p>Ensure dead lines are kept, customers are happy, and the entire experience with Code St Louis is as expected. I have over a decade of business ownership and knows what it takes to deliver a solution and customer a good customer experience</p>
+                            <h4 class="uppercase weight300">Pre Sales Engineer </h4>
+                            <p>Ensure dead lines are kept, customers are happy, and the entire experience with Code St Louis is as expected. Dave has over a decade of business ownership and knows what it takes to deliver a solution and customer good customer experience</p>
                             <ul class="list-inline list-socials">
 
                                 <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
@@ -728,7 +639,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                Copyright 2020 © Code St Louis, All rights reserved
+                Copyright 2021 © Code St Louis, All rights reserved
             </div>
             <div class="col-sm-6 text-right">
                 <ul class="list-inline">

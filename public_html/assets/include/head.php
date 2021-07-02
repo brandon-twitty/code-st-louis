@@ -3,6 +3,7 @@
 <meta name="author" content="Code St Louis">
 <meta property="og:title" content="<?php echo $Title;?>">
 <meta property="og:image" content="<?php echo $metaImage;?>"/>
+<meta property="og:keywords" content="<?php echo $ogMetaKeywords;?>"/>
 <meta property="og:description" content="<?php echo $ogMetaDescription;?>"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
