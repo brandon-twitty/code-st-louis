@@ -3,7 +3,7 @@ $Page='Home';
 $Title='Code St Louis';
 $metaDescription='Code St Louis id financial technology company founded on the need and ease of fintech. Our automation tools and good partnerships allow us to create secure, financial based apps.';
 $metaImage='/assets/images/meta-codestl-io.PNG';
-$ogMetaDescription='A financial technology company founded an located in St Louis Missouri 63104. We build financial automation tools to industry standards. Our partnerships allow us to do many different things'
+$ogMetaDescription='A financial technology company founded and located in St Louis Missouri 63104. We build financial automation tools that meet industry standards and bring cleartiy to the individual or business. Our partnerships allow us to do many different things'
 ?>
 <!DOCTYPE html>
 <!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
@@ -297,7 +297,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h4 class="uppercase hr-mid">
-                        Streaming Market Data:    Live quotes (coming feature)
+                        Streaming Market Data:    <a href="https://www.bitstamp.net/s/webapp/examples/live_trades_v2.html" target="_blank">feature coming soon</a>
                     </h4>
                 </div>
             </div>
@@ -376,7 +376,8 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h4 class="uppercase hr-mid">
-                        What makes us different
+                        What makes us different<br>
+						<p>Click The World</p>
                     </h4>
                 </div>
             </div>
@@ -390,7 +391,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                                 </div>
                             </div>
                             <div class="media-body text-right">
-                                <h4 class="media-heading uppercase">Repository of Code</h4>
+                                <a href="https://www.bitstamp.net/s/webapp/examples/order_book_v2.html" target="_blank"><h4 class="media-heading uppercase">Checkout The Order Book</h4></a>
                                 <p>80% of an app has the same basic parts, Login workflow, forms, messaging, file upload eccetera. We have piles of boiler plate code to get your Application up and running</p>
                             </div>
                         </li>
@@ -419,7 +420,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                     </ul>
                 </div>
                 <div class="col-md-4 text-center">
-                    <img src="assets/images/world.jpg" alt="Our Strong Points Ipad"/>
+                    <a href="https://www.bitstamp.net/s/webapp/examples/order_book_v2.html" traget="_blank"><img src="assets/images/world.jpg" alt="Our Strong Points Ipad"/></a>
                 </div>
                 <div class="col-md-4">
                     <ul class="media-list">
@@ -431,7 +432,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                             </div>
                             <div class="media-body">
                                 <h4 class="media-heading uppercase">Processing, Fintech & Crypto</h4>
-                                <p>Utilizing Crypto wallets and currency such ass XRP (RIPPLE), we are able to process any currency at any amount in 3-5 seconds USD/YEN, BTC/USD, XRP/GOLD</p>
+                                <p>Our partnerships allow us to bring Financial Clearity to every individual. All assets you may own can be visible in a moments notice. Start a chat to find out more</p>
                             </div>
                         </li>
                         <li class="media feature-left-top square-icon-hover animated" data-fx="fadeInUp">
@@ -457,7 +458,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
 
                             <div class="media-body">
                                 <h4 class="media-heading uppercase">We Care</h4>
-                                <p>What drives Code St Louis is to watch our customers succeed. Being a team of mostly Veterans, we know what it means to sacrifice for other and get the mission compete</p>
+                                <p>What drives Code St Louis is to watch our customers succeed. Being a team of mostly Veterans, we know what it means to sacrifice for other and complete the mission</p>
                             </div>
                         </li>
                     </ul>
