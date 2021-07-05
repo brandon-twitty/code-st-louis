@@ -428,7 +428,9 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                     </ul>
                 </div>
                 <div class="col-md-4 text-center">
+                    <a href="https://www.bitstamp.net/s/webapp/examples/order_book_v2.html" blank="_blank">
                     <img src="assets/images/world.jpg" alt="Our Strong Points Ipad"/>
+                    </a>
                 </div>
                 <div class="col-md-4">
                     <ul class="media-list">
