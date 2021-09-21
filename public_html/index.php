@@ -134,7 +134,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                              data-endspeed="300"
                              style="z-index: 7">
                             <div class="container text-center">
-                                <h1 class="huge hr-mid">simple <span class="motive">code</span></h1>
+                                <h1 class="huge hr-mid">Simple<span class="motive">Code</span></h1>
                             </div>
                         </div>
 
@@ -150,7 +150,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                              data-endeasing="Power1.easeIn"
                              data-captionhidden="off"
                              style="z-index: 7">
-                            Financial Technology Partner
+                            Software Company St Louis Mo
                         </div>
                         <!-- LAYER NR. 4 -->
                         <div class="tp-caption customin tp-resizeme rs-parallaxlevel-0 start hasclicklistener"
