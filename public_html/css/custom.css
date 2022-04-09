@@ -1,0 +1,106 @@
+.huge {
+    font-size: 1.5em !important;
+    line-height: 1;
+    font-weight: 900;
+}
+
+
+.aside-title {
+    font-size: 50px;
+    line-height: 1;
+    font-weight: 900;
+    display: block;
+    text-overflow: ellipsis;
+    word-break: break-all;
+    overflow: hidden;
+}
+
+.stl-2-font{
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+
+}
+.stl-2-font-black{
+    font-size: 18px;
+    color: #313842;
+    font-weight: 400;
+
+}
+.solutions-border{
+    border-style: solid;
+    border-color: #0b0b0b;
+    border-width: 2px;
+}
+.stl-2-bg{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding:15px;
+}
+
+
+.stl-2 {
+
+    background-color: #edf1fe;
+    /*background: url(../../assets/images/stlouis2-scaled.jpg);
+
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+
+.stl-links-ideas{
+    font-size: 14px;
+    outline: none;
+    font-weight: 600;
+    padding: 20px;
+}
+.container-ideas{
+    width: 1300px;
+}
+
+
+
+/* =========== Regular Phone =======*/
+
+@media (max-width: 480px) {
+    h1.huge {
+        font-size: 2em;
+    }
+}
+
+.pre{
+    margin-bottom: 1em;
+    padding: 12px 8px;
+    width: auto;
+    max-height: 600px;
+    overflow: auto;
+    font-family: Consolas,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,sans-serif;
+    font-size: 13px;
+    background-color: var(--black-050);
+    border-radius: 3px;
+}
+code{
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+    font-size: 0.8125rem;
+}
+pre{
+    font-family: Andale Mono, Lucida Console, Monaco, fixed, monospace;
+    color: whitesmoke; background-color: #3a3a3a;
+    font-size: 16px; border: 1px dashed #999999;
+    line-height: 1.5em; padding: 5px;
+    overflow: auto; width: 100%
+}
+code {
+    color:whitesmoke;
+    word-wrap:normal;
+}
+/*======Iphone XR ==========*/
+@media only screen
+and (device-width : 414px)
+and (device-height : 896px)
+and (-webkit-device-pixel-ratio : 2) {
+    h1.huge {
+        font-size: 2em;
+    }
+
+}

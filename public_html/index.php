@@ -1,10 +1,10 @@
 <?php
 $Page='Home';
 $Title='Code St Louis';
-$metaDescription='Code St Louis is a financial technology company founded on the need and ease of Fintech. Our automation tools and good partnerships allow us to create secure, financial based apps. We have outside audit services to ensure compliance';
+$metaDescription='Code St Louis is an application software development company located right here in St Louis Missouri. We have Enterprise software engineering and application development experience. Being a tech company in the heartland of St Louis, we enjoy working in all aspects of the Development Life Cycle from Proof of Concepts, additions to existing software, API integration or building applications from the ground up';
 $metaImage='/assets/images/meta-codestl-io.PNG';
-$ogMetaKeywords='Money Management Software, Software Technology St Louis, Code St Louis, Learn to Code St Louis,St Louis Fintech, Programming Enterprise Software, Firebase Solutions, Google Cloud Platform, Proof of Concept Application, Financial Software Automation, Fintech St Louis, Asset Management, Investment and Automation, Artificial Intelligence ';
-$ogMetaDescription='A financial technology company founded an located in St Louis Missouri 63104. We build financial automation tools to industry standards. Our partnerships allow us to do many different things';
+$ogMetaKeywords='Application Development , Mobile Application Development, Software Technology St Louis,Tech Company Code St Louis, Learn to Code St Louis,St Louis Fintech, Programming Enterprise Software, Firebase Solutions, Google Cloud Platform, Proof of Concept Application, Financial Software Automation, Fintech St Louis, Asset Management, Investment and Automation, Artificial Intelligence ';
+$ogMetaDescription='An Application software development company right here in St Louis. As a tech company we still keep true by practicing Scaled Agile to ensure dead lines are met and technology road maps are clearly communicated';
 ?>
 <!DOCTYPE html>
 <!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
@@ -134,7 +134,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                              data-endspeed="300"
                              style="z-index: 7">
                             <div class="container text-center">
-                                <h1 class="huge hr-mid">Simple<span class="motive">Code</span></h1>
+                                <h1 class="huge hr-mid">Simple<span class="motive">Dev</span></h1>
                             </div>
                         </div>
 
@@ -149,8 +149,8 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                              data-endspeed="300"
                              data-endeasing="Power1.easeIn"
                              data-captionhidden="off"
-                             style="z-index: 7">
-                            Software Company St Louis Mo
+                             style="z-index: 7; padding-top: 15px;">
+                            <h1 style="font-size: .85em; padding-top: 15px">Application Development St Louis Mo</h1>
                         </div>
                         <!-- LAYER NR. 4 -->
                         <div class="tp-caption customin tp-resizeme rs-parallaxlevel-0 start hasclicklistener"
@@ -179,11 +179,12 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
     <section class="container section">
         <div class="row">
             <div class="col-md-12 text-center">
-                <h2 class="uppercase section-title hr-mid">Our team
-                    <span class="ct-ribbon"><span class="ct-triangle"></span> <span>understands</span></span>
-                    value <span class="weight400">streams</span></h2>
-                <h2 class="uppercase weight300">codes st louis works to visualize your <span class="weight400"> value stream </span>and uses Automation to<span class="weight800" style="color: #7dce94">Speed It Up</span></h2>
+                <h2 class="uppercase section-title hr-mid">Cloud Native
+                    <span class="ct-ribbon"><span class="ct-triangle"></span> <span>Applications</span></span>
+                    Mobile <span class="weight400">Development</span></h2>
+                <h2 class="uppercase weight300">We develop applications to close gaps in<span class="weight400"> value streams.</span></h2>
             </div>
+            <!-- todo replace with business functions -->
             <div class="col-md-12">
                 <div class="ct-process">
                     <div class="row">
@@ -306,7 +307,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h4 class="uppercase hr-mid">
-                        Streaming Market Data:    <a href="https://www.bitstamp.net/s/webapp/examples/live_trades_v2.html" target="_blank">Live quotes (coming feature)</a>
+                       Check Out Some Use Cases
                     </h4>
                 </div>
             </div>
@@ -492,7 +493,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
         <div class="display-table">
             <div class="inner bg5">
                 <div class="text-center">
-                    <h2 class="uppercase page-header no-margin">Speed . scale-ability . efficiency</h2>
+                    <h2 class="uppercase page-header no-margin">Local Tech Company in St Louis</h2>
                 </div>
             </div>
         </div>
@@ -535,7 +536,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                             <div class="image-wrapper">
                                 <img width="100%" src="assets/images/karadrew.png" alt="Business Development">
                             </div>
-                            <h4 class="uppercase hr-mid"><a href="https://codestlouis.com">Kara Drew</a></h4>
+                            <h4 class="uppercase hr-mid"><a href="https://www.linkedin.com/in/dr-kara-drew-8b3a2bb1/" target="_blank">Kara Drew</a></h4>
                             <h4 class="uppercase weight300">Business Development | Product Owner</h4>
                             <p>She is an Air Force Veteran and has served this nation in and out of uniform. As a citizen she has helped manage some of the largest defense contracts in the DoD. She has brought that type of professionalism and organisation to Code St Louis.</p>
                             <ul class="list-inline list-socials">
@@ -551,7 +552,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                             <div class="image-wrapper">
                                 <img width="100%" src="assets/images/brian-launcher.png" alt="Customer Success Manager">
                             </div>
-                            <h4 class="uppercase hr-mid"><a href="https://codestlouis.com">Brian Launcher</a></h4>
+                            <h4 class="uppercase hr-mid"><a href="https://linkedin.com/in/brian-lauchner-b390bbaa" target="_blank">Brian Launcher</a></h4>
                             <h4 class="uppercase weight300">Advisor | Leads Board of Directors</h4>
                             <p>Brian has a wealth of knowledge when it comes to investing rather it is properties, securities or crypto currencies. In his role, he helps advise and navigate the investment world. We aim to keep adding like minded experienced individuals</p>
                             <ul class="list-inline list-socials">
@@ -562,7 +563,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
                             </ul>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-3">
+                   <div class="col-sm-6 col-md-3">
                         <div class="person-box">
                             <div class="image-wrapper">
                                 <img width="100%" src="assets/images/who-is-david-kley-sm.jpg" alt="Customer Success Manager">
@@ -604,7 +605,7 @@ $ogMetaDescription='A financial technology company founded an located in St Loui
         <div class="row">
             <div class="col-md-12 text-center">
                 <h2 class="uppercase weight300">
-                    Code  St. Louis  FinTech
+                    Code St. Louis FinTech Developers in your Backyard!
                 </h2>
                 <div class="stl-2-font-black">
                     <p>
