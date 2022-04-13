@@ -226,7 +226,7 @@
                                             Project Page
                                         </span>
                                         <ul class="list-unstyled">
-                                            <li><a href="portfolio-single.html"><i class="fa fa-fw fa-angle-right"></i> Portfolio Single I</a></li>
+                                            <li><a href="portfolio-single.php"><i class="fa fa-fw fa-angle-right"></i> Portfolio Single I</a></li>
                                             <li><a href="portfolio-single2.html"><i class="fa fa-fw fa-angle-right"></i> Portfolio Single II</a></li>
                                         </ul>
                                     </div>

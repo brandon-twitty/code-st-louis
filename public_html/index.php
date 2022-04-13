@@ -167,59 +167,146 @@ $ogMetaDescription='An Application software development company right here in St
                              data-endelementdelay="0.1"
                              data-linktoslide="next">
                             <!--<a href="#" class="btn btn-border btn-lg">View Our Work</a>-->
-                            <a href="https://form.typeform.com/to/xjljHFMH?typeform-medium=embed-snippet" class="btn btn-primary btn-lg">Learn How</a>
+                          <!--  <a href="https://form.typeform.com/to/xjljHFMH?typeform-medium=embed-snippet" class="btn btn-primary btn-lg">Learn How</a>-->
+                            <h2 class="tp-caption" >Click icons to learn more</h2>
                         </div>
                     </li>
                 </ul>
                 <div class="tp-bannertimer"></div>	</div>
         </div>
     </div>
+    <section class="section bg3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h4 class="uppercase">Code St Louis Builds Custom Software and Services for the Financial Industry </h4>
+                    <p>Our products are designed to keep client engagement private confidential and help them learn and understand their portfolio. One service we offer is private group or one one one live trading session that is held on your serve - no Zoom or other glitch conferencing softwares that are hard to understand. Another great service is your clients can select Securities or assets they are interested in and when a buy trigger or sell trigger even occurs an alert wil come directly to their phone via secure SMS   <br>
+                    </p>
+                    <a href="/private-live-trading.php" class="btn btn-primary btn-lg">Private Live Trading</a>
+                    <a href="/text-to-invest.php" class="btn btn-default btn-lg">Text2Invest</a>
+                </div>
+                <div class="col-md-6 video">
+                    <iframe src="//player.vimeo.com/video/2689624" frameborder="0" title="Our office yesterday" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+                </div>
+            </div>
+        </div>
 
+
+    </section>
     <!-- END REVOLUTION SLIDER -->
-    <section class="container section">
+    <section class="container-fluid section">
         <div class="row">
             <div class="col-md-12 text-center">
                 <h2 class="uppercase section-title hr-mid">Cloud Native
                     <span class="ct-ribbon"><span class="ct-triangle"></span> <span>Applications</span></span>
                     Mobile <span class="weight400">Development</span></h2>
-                <h2 class="uppercase weight300">We develop applications to close gaps in<span class="weight400"> value streams.</span></h2>
+                <br><h2 class="uppercase weight300">Function's that can be added immediately to your business capabilities</h2>
             </div>
             <!-- todo replace with business functions -->
-            <div class="col-md-12">
-                <div class="ct-process">
-                    <div class="row">
-                        <div class="display-table">
-                            <div class="hidden-sm table-cell ct-process-icon">
-                                <span class="ct-process-right"><i class="fa fa-hand-o-right"></i></span>
-                            </div>
-                            <div class="table-cell text-center animated" data-fx="bounceIn" data-time="50">
-                                <a href="#"><img class="img-circle img-responsive" src="assets/images/value-stream-map-icon-inbox.jpg" alt="Research"></a>
-                                <div class="shadow"></div>
-                                <span class="gloria motive">Data</span>
-                            </div>
-                            <div class="table-cell text-center animated" data-fx="bounceIn" data-time="150">
-                                <a href="#"><img class="img-circle img-responsive" src="assets/images/value-stream-map-icon-iteration.jpg" alt="Idea"></a>
-                                <div class="shadow"></div>
-                                <span class="gloria motive">Our Technology</span>
-                            </div>
-                            <div class="table-cell text-center animated" data-fx="bounceIn" data-time="250">
-                                <a href="#"><img class="img-circle img-responsive" src="assets/images/value-stream-map-partners.jpg" alt="Solution"></a>
-                                <div class="shadow"></div>
-                                <span class="gloria motive">Partnerships</span>
-                            </div>
-                            <div class="table-cell text-center animated" data-fx="bounceIn" data-time="250">
-                                <a href="#"><img class="img-circle img-responsive" src="assets/images/value-stream-map-icon-withdrawal.jpg" alt="Solution"></a>
-                                <div class="shadow"></div>
-                                <span class="gloria motive">Create Solutions</span>
-                            </div>
-                            <div class="hidden-sm table-cell ct-process-icon">
-                                <span class="ct-process-left"><i class="fa fa-trophy"></i></span>
-                            </div>
+            <section class="container-fluid section">
+                <div class="row">
+                    <div class="col-sm-3 text-center square-icon-hover" data-toggle="tooltip" data-placement="bottom" title="Our direct websocket connection to exchanges and having the mathematical equations locally, can scan and report very fast ">
+                        <div class="square-icon-box">
+                            <i class="fa fa-bar-chart fa-2x"></i>
                         </div>
-                        <div class="clearfix"></div>
+                        <a href="#">
+                            <h4 class="uppercase hr-mid">
+                                US Stock Exchange Technology
+                            </h4>
+                        </a>
+                        <p>Proprietary Automated scanning and alerting of 3 US Stock Exchanges based on Technical Indicators and company performance - NASDAQ | NYSE | ARCA. 3 crypto Exchanges with the same capabilities Coinbase | Binance | Gemini. As a client you can gain access to more <span style="font-weight: bold">proprietary </span>tools in the name of robo trading and technical analysis.
+                        </p>
+                    </div>
+                    <div class="col-sm-3 text-center square-icon-hover" data-toggle="tooltip" data-placement="bottom" title="It take 4 hours to analyze 20-30 stock. Our technology can do 6000 before you can read this page">
+                        <div class="square-icon-box">
+                            <i class="fa fa-space-shuttle fa-2x"></i>
+                        </div>
+                        <a href="#">
+                            <h4 class="uppercase hr-mid">
+                                Speed of Technical Analysis
+                            </h4>
+                        </a>
+                        <p>Our technical analytical (mathematical) algorithms are local so no API to call in order to calculate SMA, EMA, RSI, MACD, Bollinger Bands. This allows us to scan about 6000 Stocks and Assets, then send a technical report in about 5 minutes or less directly to a user’s phone or dashboard on demand
+                        </p>
+                    </div>
+                    <div class="col-sm-3 text-center square-icon-hover" data-toggle="tooltip" data-placement="bottom" title="Dont have 10 tabs open just to see how your business and portfolios are going">
+                        <div class="square-icon-box">
+                            <i class="fa fa-binoculars fa-2x"></i>
+                        </div>
+                        <a href="#">
+                            <h4 class="uppercase hr-mid">
+                                Complete Portfolio Visibility
+                            </h4>
+                        </a>
+                        <p>Financial Dashboards, Data visualization and Business Intelligence analytics - We can aggregate data from several institutions utilizing APIs making it Sortable, Exportable and sometimes the Actionable button is right there to make a decision and act on the information
+                        </p>
+                    </div>
+                    <div class="col-sm-3 text-center square-icon-hover" data-toggle="tooltip" data-placement="bottom" title="If you need a solutioon to processing not only can we beat Square in price, but we can solve any processing problems ">
+                        <div class="square-icon-box">
+                            <i class="fa fa-credit-card fa-2x"></i>
+                        </div>
+                        <a href="#">
+                            <h4 class="uppercase hr-mid">
+                                Payment Processing
+                            </h4>
+                        </a>
+                        <p>One of our valuable partnerships allows us to integrate Payment Processing, not like Square that monitors your every move, but an application that may require multiple distribution on payment, complex transactions or can cater to High Risk companies deemed by major payment processors. We are also an authorized reseller of processing services
+                        </p>
                     </div>
                 </div>
-            </div>
+                <div class="row">
+                    <div class="col-sm-3 text-center square-icon-hover" data-toggle="tooltip" data-placement="bottom" title="Cloud Providers such as Google gives us the powerful tools to perform amazing actions">
+                        <div class="square-icon-box">
+                            <i class="fa fa-crosshairs fa-2x"></i>
+                        </div>
+                        <a href="#">
+                            <h4 class="uppercase hr-mid">
+                                Actionable Data Analysis
+                            </h4>
+                        </a>
+                        <p>Our proprietary tools and Google Managed Services allow us to analyze large data sets to create actionable items and results then display (visualize) in a way anyone can understand company risks, areas to improve or ways to increase profit
+                        </p>
+                    </div>
+                    <div class="col-sm-3 text-center square-icon-hover" data-toggle="tooltip" data-placement="bottom" title="Keep Infrastructure as Code in the repo so environments are all the same and easy to redeploy">
+                        <div class="square-icon-box">
+
+                            <i class="fa fa-cloud fa-2x"></i>
+                        </div>
+                        <a href="#">
+                            <h4 class="uppercase hr-mid">
+                                Cloud Infrastructure & Architecture
+                            </h4>
+                        </a>
+                        <p>Enterprise level management and architect experience guides us in building scalable cloud infrastructure utilizing managed resources on AZURE, GCP and if it is a must AWS (10+ year AWS experience just not our favorite.) We use Terraform, Azure Blue Prints and if we have to Cloud Formation.
+                        </p>
+                    </div>
+                    <div class="col-sm-3 text-center square-icon-hover" data-toggle="tooltip" data-placement="bottom" title="Our main tool is Jira and we report each week work break downs and provide sprint performance reports">
+                        <div class="square-icon-box">
+                            <i class="fa fa-users fa-2x"></i>
+                        </div>
+                        <a href="#">
+                            <h4 class="uppercase hr-mid">
+                                Distributed Teams
+                            </h4>
+                        </a>
+                        <p>Our senior Agile team is state side but also have distributed teams that have been proven to plan sprints and meet sprint goals. We perform standard Agile ceremonies such as Backlog Grooming, Sprint Planning, Retrospectives and Product Increments, if the project would require that level of planning.
+                        </p>
+                    </div>
+                    <div class="col-sm-3 text-center square-icon-hover" data-toggle="tooltip" data-placement="bottom" title="Large institutions partner with us because we demonstrate clean code and real solutions">
+                        <div class="square-icon-box">
+                            <i class="fa fa-cubes fa-2x"></i>
+                        </div>
+                        <a href="#">
+                            <h4 class="uppercase hr-mid">
+                               Partnerships
+                            </h4>
+                        </a>
+                        <p>Our team has worked hard over the years to partner with the right companies in order to gain access to some of the most powerful APIs in the business. Some we have nondisclosure's with but are all in the realm of financial institutions that create software to automate exchange actions and encryption capabilities.
+                    </div>
+                </div>
+
+            </section>
+            <div class="container">
             <div class="col-md-12">
                 <br>
                 <br>
@@ -265,10 +352,11 @@ $ogMetaDescription='An Application software development company right here in St
                     </div>
                 </section>
             </div>
+            </div>
         </div>
     </section>
     <!--live ticker counters -->
-    <script type = "text/javascript">
+    <!--<script type = "text/javascript">
         function WebSocketTest() {
 
             if ("WebSocket" in window) {
@@ -307,7 +395,7 @@ $ogMetaDescription='An Application software development company right here in St
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h4 class="uppercase hr-mid">
-                       Check Out Some Use Cases
+                        Check Out Some Use Cases
                     </h4>
                 </div>
             </div>
@@ -371,13 +459,56 @@ $ogMetaDescription='An Application software development company right here in St
                 </div>
             </div>
             <hr class="transparent">
-        <script>
-            import app from "express/lib/request";
+            <script>
+                import app from "express/lib/request";
 
-            app.get('/', function (req, res) {
-                res.render('ticker', { title: 'Hey', message: 'Hello there!' })
-            }
-        </script>
+                app.get('/', function (req, res) {
+                    res.render('ticker', { title: 'Hey', message: 'Hello there!' })
+                }
+            </script>
+        </div>
+    </section>-->
+    <div class="container"></div>
+    <section class="media-section darkbg"  data-stellar-background-ratio="0.5" data-height="500" data-type="parallax" data-image="https://ik.imagekit.io/hwxxsus6vku/codestlouis/SHIBUSDT_2021-10-06_00-34-26_cp7hFvEtB.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649652398048" data-image-mobile="https://ik.imagekit.io/hwxxsus6vku/codestlouis/KNC_Lm5TGbqGN.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1649616383017">
+        <div class="inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h2 class="uppercase hr-mid">
+                            Head spinning API Integrations
+                        </h2><br><p>Click or Hover Icons for use cases</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 col-xs-6">
+                        <div class="service-box withhover" data-toggle="popover" data-placement="bottom" title="SMS Communication" data-content="The leading API SMS, Voice and Video communication provider in the world. They provide the ability to send secure, encrypted messages along with secure Video calls, custom video meeting services on your servers (provisioned in cloud), AI - Driven Phone calls to automate lead screening or other tasks like pay my bill, cancel service, to advanced tasks like give me my balance. Also, Twilio offers real time translation of many languages">
+                            <img alt ="Twilio" src="https://twilio-cms-prod.s3.amazonaws.com/images/IcnTwilio.width-500.png" width="65%" >
+                            <span class="h4 uppercase">Twilio</span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <div class="service-box withhover" data-toggle="popover" data-placement="bottom" title="Options, Stocks, Crypto" data-content="The most accurate market Data for forex, options, futures and US Stocks. This is the service Google, Robinhood and most major financial institution uses for real time data that is 99.5% accurate by the second
+">
+                            <img alt ="Polygon" src="https://ik.imagekit.io/hwxxsus6vku/codestlouis/polygon-log_OKe4U7reH.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649616549202" width="65%" >
+                            <span class="h4 uppercase">Polygon</span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <div class="service-box withhover" data-toggle="popover" data-placement="bottom" title="Schedule Anything" data-content="Seamless integration into your application makes it easy to connect your existing Google Calendar or Outlook calendar to book meetings, appointments, interviews, lunches, or whatever your heart desires">
+                            <img alt ="Calendly" src="https://ik.imagekit.io/hwxxsus6vku/codestlouis/calendly-clear_2jd_iqMMl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649617001967" width="100%" >
+                            <span class="h4 uppercase">Calendly</span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <div class="service-box withhover" data-toggle="popover" data-placement="bottom" title="'My Company can accept any form of payment including crypto'" data-content=" USIO (NASDAQ ticker) is our Payment Processor Partner and we can undercut any processor you are currently using. It has full capabilities of ACH, RCC( remotely created checks), Text2Pay, PINLess debit, and if you still need one, EMV Terminals. Usio is great for these
+                         Industries, Medical Facilities, Insurance Companies,Financial Institutions, Utility Companies, Collection Agencies,Government Entities & More
+">
+                          <img style="margin: 10px" alt="USIO" src="https://ik.imagekit.io/hwxxsus6vku/codestlouis/final-usio-color_-kKvyXYkJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649615822138" width="100%" height="100%">
+                            <span class="h4 uppercase">Powerful Payfac Solutions</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
     <!-- Our Strengths -->
@@ -401,7 +532,7 @@ $ogMetaDescription='An Application software development company right here in St
                             </div>
                             <div class="media-body text-right">
                                 <h4 class="media-heading uppercase">Repository of Code</h4>
-                                <p>80% of an app has the same basic parts, Login workflow, forms, messaging, file upload eccetera. We have piles of boiler plate code to get your Application up and running</p>
+                                <p>80% of an app has the same basic parts, Login workflow, forms, messaging, file upload etc. We have piles of boiler plate code to get your Application up and running (about 100 repositories of code)</p>
                             </div>
                         </li>
                         <li class="media feature-right square-icon-hover animated" data-fx="fadeInLeft">
@@ -412,7 +543,7 @@ $ogMetaDescription='An Application software development company right here in St
                             </div>
                             <div class="media-body text-right">
                                 <h4 class="media-heading uppercase">We Build Cloud Native</h4>
-                                <p>This allows us to take advantage of Enterprise level functionality out of the box. Such as Facial recognition, pin point geo location, fast financial transactions list goes on </p>
+                                <p>This allows us to take advantage of Enterprise level functionality out of the box. Such as Machine learning, top level security, fast server scaling to with stand spikes in traffic </p>
                             </div>
                         </li>
                         <li class="media feature-right-top square-icon-hover animated" data-fx="fadeInUp">
@@ -423,7 +554,7 @@ $ogMetaDescription='An Application software development company right here in St
                             </div>
                             <div class="media-body text-right">
                                 <h4 class="media-heading uppercase">Enterprise Experience</h4>
-                                <p>Our team has decades of experience working in the enterprise arena in many different fields including Defense contracts. This gives us a deep level of understanding the issues with legacy systems</p>
+                                <p>Our team has decades of experience working in the enterprise arena in many different fields including Defense contracts. This gives us a deep level of understanding the issues with legacy systems and the pain points most enterprise companies face day to day</p>
                             </div>
                         </li>
                     </ul>
@@ -443,7 +574,7 @@ $ogMetaDescription='An Application software development company right here in St
                             </div>
                             <div class="media-body">
                                 <h4 class="media-heading uppercase">Processing, Fintech & Crypto</h4>
-                                <p>Utilizing Crypto wallets and currency such ass XRP (RIPPLE), we are able to process any currency at any amount in 3-5 seconds USD/YEN, BTC/USD, XRP/GOLD</p>
+                                <p>Our financial automation tools are built for speed, reliability and dead accurate to the 8th decimal point if need be</p>
                             </div>
                         </li>
                         <li class="media feature-left-top square-icon-hover animated" data-fx="fadeInUp">
@@ -456,7 +587,7 @@ $ogMetaDescription='An Application software development company right here in St
 
                             <div class="media-body">
                                 <h4 class="media-heading uppercase">Security</h4>
-                                <p>Navigating the financial industry is vast and wide. Code St Louis has taken the actions to mitigate and understand risk of the Global Financial Industry</p>
+                                <p>Security is on of the most important metrics. Some tactics we use is frequently change out live API keys at random or any sense of nefarious activity, Timestamp within milliseconds of a call from server to server or it becomes an invalid API call and NO passwords to log in. You are messaged a onetime use code</p>
                             </div>
                         </li>
                         <li class="media feature-left-top square-icon-hover animated" data-fx="fadeInUp">
@@ -469,7 +600,7 @@ $ogMetaDescription='An Application software development company right here in St
 
                             <div class="media-body">
                                 <h4 class="media-heading uppercase">We Care</h4>
-                                <p>What drives Code St Louis is to watch our customers succeed. Being a team of mostly Veterans, we know what it means to sacrifice for other and get the mission compete</p>
+                                <p>What drives Code St Louis is to watch our customers succeed. Being a team of mostly Veterans, we know what it means to sacrifice for others and complete the mission</p>
                             </div>
                         </li>
                     </ul>
@@ -478,7 +609,7 @@ $ogMetaDescription='An Application software development company right here in St
         </div>
     </section>
 
-    <section class="media-section darkbg html5" data-height="220" data-type="video" data-fallback-image="assets/images/content/parallax6.jpg">
+    <section class="media-section darkbg html5" data-height="220" data-type="video" data-fallback-image="https://ik.imagekit.io/hwxxsus6vku/codestlouis/SHIBUSDT_2021-10-06_00-34-26_cp7hFvEtB.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649652398048">
         <div class="video">
             <!-- in order for video to be muted you must add  &amp;api=1&amp;player_id=vimeoplayer1 to the end of the video src
                 If you have more than one video, make sure that player_id and id have dif names on each video
@@ -503,113 +634,33 @@ $ogMetaDescription='An Application software development company right here in St
 
 
     <div class="container"></div>
-    <section class="section bg1">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <h2 class="uppercase weight300">
-                        Solution Managers
-                    </h2>
-                </div>
-            </div>
-            <div class="section-top">
-                <div class="row">
-                    <div class="col-sm-6 col-md-3">
-                        <div class="person-box">
-                            <div class="image-wrapper">
-                                <img src="assets/images/profile%20pic.jpg" alt="Brandon Twitty">
-                            </div>
-                            <h4 class="uppercase hr-mid"><a href="https://twitty.io">Brandon Twitty</a></h4>
-                            <h4 class="uppercase weight300">Solutions Architect</h4>
-                            <p>Over a decade of building and delivering enterprise solutions in almost every industry. Passionate about technology and validating the cutting edge products coming to market. Lets have a conversation Ill have a solution for it!</p>
-                            <ul class="list-inline list-socials">
 
-                                <li><div class="text-wrapper"><a href="https://twitty.io" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
 
-                                <li><div class="text-wrapper"><a href="https://www.linkedin.com/in/twitty/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin fa-fw"></i></a></div></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-6 col-md-3">
-                        <div class="person-box">
-                            <div class="image-wrapper">
-                                <img width="100%" src="assets/images/karadrew.png" alt="Business Development">
-                            </div>
-                            <h4 class="uppercase hr-mid"><a href="https://www.linkedin.com/in/dr-kara-drew-8b3a2bb1/" target="_blank">Kara Drew</a></h4>
-                            <h4 class="uppercase weight300">Business Development | Product Owner</h4>
-                            <p>She is an Air Force Veteran and has served this nation in and out of uniform. As a citizen she has helped manage some of the largest defense contracts in the DoD. She has brought that type of professionalism and organisation to Code St Louis.</p>
-                            <ul class="list-inline list-socials">
-
-                                <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
-
-                                <li><div class="text-wrapper"><a href="https://linkedin.com/in/dr-kara-drew-8b3a2bb1" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin fa-fw"></i></a></div></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-md-3">
-                        <div class="person-box">
-                            <div class="image-wrapper">
-                                <img width="100%" src="assets/images/brian-launcher.png" alt="Customer Success Manager">
-                            </div>
-                            <h4 class="uppercase hr-mid"><a href="https://linkedin.com/in/brian-lauchner-b390bbaa" target="_blank">Brian Launcher</a></h4>
-                            <h4 class="uppercase weight300">Advisor | Leads Board of Directors</h4>
-                            <p>Brian has a wealth of knowledge when it comes to investing rather it is properties, securities or crypto currencies. In his role, he helps advise and navigate the investment world. We aim to keep adding like minded experienced individuals</p>
-                            <ul class="list-inline list-socials">
-
-                                <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
-
-                                <li><div class="text-wrapper"><a href="https://linkedin.com/in/brian-lauchner-b390bbaa" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin fa-fw"></i></a></div></li>
-                            </ul>
-                        </div>
-                    </div>
-                   <div class="col-sm-6 col-md-3">
-                        <div class="person-box">
-                            <div class="image-wrapper">
-                                <img width="100%" src="assets/images/who-is-david-kley-sm.jpg" alt="Customer Success Manager">
-                            </div>
-                            <h4 class="uppercase hr-mid"><a href="https://webdesignandcompany.com/">David Kley</a></h4>
-                            <h4 class="uppercase weight300">Pre Sales Engineer </h4>
-                            <p>Ensure dead lines are kept, customers are happy, and the entire experience with Code St Louis is as expected. Dave has over a decade of business ownership and knows what it takes to deliver a solution and customer good customer experience</p>
-                            <ul class="list-inline list-socials">
-
-                                <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
-
-                                <li><div class="text-wrapper"><a href="https://www.linkedin.com/in/davidkley/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin fa-fw"></i></a></div></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="clearfix visible-sm"></div>
-                    <!--<div class="col-sm-6 col-md-4">
-                        <div class="person-box">
-                            <div class="image-wrapper">
-                                <img src="assets/images/content/nick.jpg" alt="Nick Rivera - Designer">
-                            </div>
-                            <h4 class="uppercase hr-mid"><a href="team-member.html">Mark possibly Murfin</a></h4>
-                            <h4 class="uppercase weight300">Sales Engineer | Technical Architect</h4>
-                            <p>Waiting on his approval to be on the site.</p>
-                            <ul class="list-inline list-socials">
-                                <li><div class="text-wrapper"><a href="https://www.facebook.com/createITpl" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Facebook"><i class="fa fa-facebook fa-fw"></i></a></div></li>
-                                <li><div class="text-wrapper"><a href="https://twitter.com/createitpl" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Twitter"><i class="fa fa-twitter fa-fw"></i></a></div></li>
-                                <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Google +"><i class="fa fa-google-plus fa-fw"></i></a></div></li>
-                                <li><div class="text-wrapper"><a href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="LinkedIn"><i class="fa fa-linkedin fa-fw"></i></a></div></li>
-                            </ul>
-                        </div>-->
-                </div>
+    <section class="container section">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2 class="uppercase section-title hr-mid">Business Should be fun</h2>
+                <h2 class="uppercase weight300 no-margin">You were a swimmer too! Lets not waste the fact out of all the competition we won!</h2>
+                <br>
             </div>
         </div>
-</div>
+    </section>
+
+    <div class="container"></div>
+    <div class="d3container"></div>
+
+    <div class="container"></div>
 
 <section class="section bg1">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
                 <h2 class="uppercase weight300">
-                    Code St. Louis FinTech Developers in your Backyard!
+                    Code St. Louis FinTech Developers right here in St Louis!
                 </h2>
                 <div class="stl-2-font-black">
                     <p>
-                        Specialize in Financial Solutions
+                        You dream it we can build it!
                     </p>
                 </div>
             </div>
@@ -642,7 +693,7 @@ $ogMetaDescription='An Application software development company right here in St
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                Copyright 2021 © Code St Louis, All rights reserved
+                Copyright 2022 © Code St Louis, All rights reserved
             </div>
             <div class="col-sm-6 text-right">
                 <ul class="list-inline">
@@ -664,7 +715,7 @@ $ogMetaDescription='An Application software development company right here in St
 
 <!-- IE -->
 <script src="assets/js/modernizr.custom.js"></script>
-
+    <script src="assets/js/chart.call.js"></script>
 <!-- Revolution Slider -->
 <script src="assets/plugins/revslider/js/jquery.themepunch.revolution.min.js"></script>
 <script src="assets/plugins/revslider/js/jquery.themepunch.plugins.min.js"></script>
@@ -690,7 +741,91 @@ $ogMetaDescription='An Application software development company right here in St
 
 <!-- our main JS file -->
 <script src="assets/js/main.js"></script>
+<!-- THE JS USED FOR THE SWIMMERS -->
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script>
+    "use strict";
 
+    var width = (window.innerWidth > 0) ? window.innerWidth : screen.width,
+        height = 630;
+
+    var n = 100,
+        m = 12,
+        degrees = 180 / Math.PI;
+
+    var spermatozoa = d3.range(n).map(function() {
+        var x = Math.random() * width,
+            y = Math.random() * height;
+        return {
+            vx: Math.random() * 2 - 1,
+            vy: Math.random() * 2 - 1,
+            path: d3.range(m).map(function() { return [x, y]; }),
+            count: 0
+        };
+    });
+
+    var svg = d3.select(".d3container").append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+    var g = svg.selectAll("g")
+        .data(spermatozoa)
+        .enter().append("g");
+
+    var head = g.append("ellipse")
+        .attr("rx", 6.5)
+        .attr("ry", 4);
+
+    g.append("path")
+        .datum(function(d) { return d.path.slice(0, 3); })
+        .attr("class", "mid");
+
+    g.append("path")
+        .datum(function(d) { return d.path; })
+        .attr("class", "tail");
+
+    var tail = g.selectAll("path");
+
+    d3.timer(function() {
+        for (var i = -1; ++i < n;) {
+            var spermatozoon = spermatozoa[i],
+                path = spermatozoon.path,
+                dx = spermatozoon.vx,
+                dy = spermatozoon.vy,
+                x = path[0][0] += dx,
+                y = path[0][1] += dy,
+                speed = Math.sqrt(dx * dx + dy * dy),
+                count = speed * 10,
+                k1 = -5 - speed / 3;
+
+            // Bounce off the walls.
+            if (x < 0 || x > width) spermatozoon.vx *= -1;
+            if (y < 0 || y > height) spermatozoon.vy *= -1;
+
+            // Swim!
+            for (var j = 0; ++j < m;) {
+                var vx = x - path[j][0],
+                    vy = y - path[j][1],
+                    k2 = Math.sin(((spermatozoon.count += count) + j * 3) / 300) / speed;
+                path[j][0] = (x += dx / speed * k1) - dy * k2;
+                path[j][1] = (y += dy / speed * k1) + dx * k2;
+                speed = Math.sqrt((dx = vx) * dx + (dy = vy) * dy);
+            }
+        }
+
+        head.attr("transform", headTransform);
+        tail.attr("d", tailPath);
+    });
+
+    function headTransform(d) {
+        return "translate(" + d.path[0] + ")rotate(" + Math.atan2(d.vy, d.vx) * degrees + ")";
+    }
+
+    function tailPath(d) {
+        return "M" + d.join("L");
+    }
+
+</script>
 <!-- end scripts -->
 </body>
 </html>

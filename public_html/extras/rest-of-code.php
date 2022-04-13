@@ -113,7 +113,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project1.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -136,7 +136,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project2.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -159,7 +159,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project3.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -182,7 +182,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project4.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -205,7 +205,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project5.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -228,7 +228,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project6.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -251,7 +251,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project7.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -274,7 +274,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project8.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -691,7 +691,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project1.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -714,7 +714,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project2.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -737,7 +737,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project3.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -760,7 +760,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project4.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -783,7 +783,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project5.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -806,7 +806,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project6.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -829,7 +829,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project7.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -852,7 +852,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project8.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1269,7 +1269,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project1.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1292,7 +1292,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project2.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1315,7 +1315,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project3.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1338,7 +1338,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project4.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1361,7 +1361,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project5.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1384,7 +1384,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project6.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1407,7 +1407,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project7.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1430,7 +1430,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project8.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1847,7 +1847,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project1.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1870,7 +1870,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project2.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1893,7 +1893,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project3.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1916,7 +1916,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project4.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1939,7 +1939,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project5.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1962,7 +1962,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project6.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -1985,7 +1985,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project7.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -2008,7 +2008,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project8.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -2425,7 +2425,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project1.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -2448,7 +2448,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project2.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -2471,7 +2471,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project3.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -2494,7 +2494,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project4.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -2517,7 +2517,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project5.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -2540,7 +2540,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project6.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -2563,7 +2563,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project7.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -2586,7 +2586,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project8.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -3003,7 +3003,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project1.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -3026,7 +3026,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project2.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -3049,7 +3049,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project3.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -3072,7 +3072,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project4.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -3095,7 +3095,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project5.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -3118,7 +3118,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project6.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -3141,7 +3141,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project7.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
@@ -3164,7 +3164,7 @@
                         <a class="thumb-link image-popup" data-type="image" href="assets/images/content/project8.jpg" title="Image Title Goes Here"><i class="fa fa-search"></i></a>
                         <a class="thumb-link" href="portfolio-single2.html"><i class="fa fa-link"></i></a>
                     </div>
-                    <a href="portfolio-single.html" class="thumb-title">
+                    <a href="portfolio-single.php" class="thumb-title">
                         <h4>Project Title Goes Here</h4>
                     </a>
                     <span class="thumb-cats">
